@@ -1,0 +1,32 @@
+{
+  "name": "@miraiex/trade-sdk",
+  "version": "1.0.0",
+  "description": "SDK to integrate external systems with MiraiEx's trading API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Testing? I only test in production😎 !\""
+  },
+  "keywords": [
+    "miraiex",
+    "mirai technologies",
+    "cryptocurrency exchange",
+    "norwegian cryptocurrency exchange"
+  ],
+  "author": "Thuc Hoang (thuc@miraiex.com)",
+  "license": "MIT",
+  "homepage": "https://miraiex.com",
+  "dependencies": {
+    "axios": "^0.19.0"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiraiEx/api-nodejs-sdk.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MiraiEx/api-nodejs-sdk/issues"
+  }
+}
