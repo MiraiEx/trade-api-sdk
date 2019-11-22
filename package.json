@@ -24,9 +24,9 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MiraiEx/api-nodejs-sdk.git"
+    "url": "git+https://github.com/MiraiEx/trade-api-sdk.git"
   },
   "bugs": {
-    "url": "https://github.com/MiraiEx/api-nodejs-sdk/issues"
+    "url": "https://github.com/MiraiEx/trade-api-sdk/issues"
   }
 }
